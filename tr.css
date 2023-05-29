@@ -1,0 +1,50 @@
+.container {
+    background: beige;
+    padding: 40px;
+    border-radius: 2px;
+    position: relative;
+}
+header {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#img-div {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.main-text {
+    font-size: 15px;
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(39, 36, 36);
+}
+.container-two {
+    background: white;
+    text-align: center;
+}
+.header-text {
+    font-size: 15px;
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(39, 36, 36);
+}
+span {
+    font-weight: bold;
+}
+.bio {
+    font-size: 14px;
+    font-family: sans-serif;
+    text-decoration: none;
+    text-align: justify;  
+    text-justify: initial;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 0.2px; 
+}
+.li-items {
+    padding-top: 20px; 
+}
